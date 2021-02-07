@@ -1,4 +1,4 @@
-# RankSVM
+# FSVM
 
 Rank each item by "pair-wise" approach
 
