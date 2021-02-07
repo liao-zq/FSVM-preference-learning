@@ -1,6 +1,6 @@
 # FSVM-preference-learning
 
-[![standard](https://img.shields.io/badge/feature%20engineering-1.1-blue)](https://github.com/liao-zq/FSVM-preference-learning/tree/master/feature-engineering)
+[![standard](https://img.shields.io/badge/feature%20engineering-1.1-blue)](https://github.com/liao-zq/FSVM-preference-learning/tree/master/feature_engineering)
 [![standard-readme compliant](https://img.shields.io/badge/FSVM-1.2-yellowgreen)](https://github.com/liao-zq/FSVM-preference-learning/tree/master/FSVM)
 
 This is the python code of my thesis titled "The research on preference learning algorithm based on fuzzy support vector machine and its applicaiton". There are two projects with respect to two sections in the thesis.
